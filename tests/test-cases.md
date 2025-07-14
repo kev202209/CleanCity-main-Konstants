@@ -22,5 +22,6 @@
 | TC12  | Logout         | User can log out                                      | Log in, click Logout                                                 | User is logged out                     | No        |
 | TC13  | Error Handling | Invalid login shows error                             | Go to Login, enter wrong credentials, submit                         | Error message shown                    | No        |
 | TC14  | Accessibility  | Forms have labels and ARIA attributes                 | Inspect forms                                                        | Proper labels/ARIA present             | No        |
+| TC15  | Responsiveness  | The look on the site from different devices                 | Inspect forms                                                        | Proper responsiveness on a mobile phone             | No        |
 
 **Note:** Automated = covered by Selenium scripts in `automated_tests/`.
