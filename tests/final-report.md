@@ -32,6 +32,8 @@ Testing for CleanCity Waste Pickup Scheduler was conducted using a combination o
 
 - **Screenshots:** See `/tests/screenshots/`
 - **Automated Scripts:** See `/automated_tests/`
+- **Presentation video:** Click this [Link to the video](https://drive.google.com/file/d/1UWxJ5zQPZlFhE_YzRvjiG7mQY2Pdo2U8/view?usp=sharing)
+
 
 ## 5. Lessons Learned
 
